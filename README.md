@@ -45,15 +45,6 @@ Explores external and personal factors affecting academic performance, including
 
 The project also evaluates **Classification** and **Regression** models using school-related and home-related features.
 
-### Classification
-- School Classification: Test Accuracy ≈ **75.8%**
-- Home Classification: Test Accuracy ≈ **36.7%**
-
-### Regression
-- School Regression: Test R² ≈ **0.566**
-- Home Regression: Test R² ≈ **-0.233**
-
-The results indicate that school-related features provide considerably stronger predictive performance than home-related features. :contentReference[oaicite:1]{index=1} :contentReference[oaicite:2]{index=2}
 
 ##  Key Insights
 
